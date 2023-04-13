@@ -1,0 +1,1 @@
+- CONTROLADORES: Reciben las peticiones por HTTP y va a procesarlas.
